@@ -1,0 +1,31 @@
+{
+  "name": "color-memory",
+  "version": "1.0.0",
+  "description": "Color Memory Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krahman/color-memory.git"
+  },
+  "keywords": [
+    "color",
+    "memory",
+    "nodejs",
+    "express"
+  ],
+  "author": "khal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krahman/color-memory/issues"
+  },
+  "homepage": "https://github.com/krahman/color-memory#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.6",
+    "nodemailer": "^2.3.0"
+  }
+}
